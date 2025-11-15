@@ -1,46 +1,41 @@
 ![Banner](./images/Banner.png)
 
-<!-- YOUTUBE -->
+<!-- SOCIAL BUTTONS -->
 <div align="center">
   <a href="https://www.youtube.com/@NakeVerso">
     <img src="https://img.shields.io/badge/YouTube-210038?style=for-the-badge&logo=youtube&logoColor=ff006f">
   </a>
-<!-- ITCH.IO  -->
+
   <a href="https://nakedev.itch.io/">
     <img src="https://img.shields.io/badge/itch.io-210038?style=for-the-badge&logo=itch.io&logoColor=00eaff">
   </a>
-<!-- TIKTOK -->
+
   <a href="https://www.tiktok.com/@nakeverso">
     <img src="https://img.shields.io/badge/TikTok-210038?style=for-the-badge&logo=tiktok&logoColor=00eaff">
   </a>
-<!-- DISCORD   -->
+
   <a href="https://discord.gg/d7UMyRJZFC">
     <img src="https://img.shields.io/badge/Discord-210038?style=for-the-badge&logo=discord&logoColor=ac68ff">
   </a>
 </div>
 
-------------
+<hr/>
 
 <h2 align="center">📜 ABOUT ME</h2>
 
-<div style="padding: 20px; background: #111; border-radius: 14px; border: 1px solid #2d0057; box-shadow: 0 0 12px #3900a3aa;">
+<div align="center">
 
-<p>
 👋 Olá! Sou <strong>Matheus Nakati (Nakemo)</strong>, desenvolvedor web e criador de jogos indie.
-</p>
 
-<p>
-💻 Hoje atuo como <strong>Desenvolvedor Web solo</strong> em uma empresa, criando soluções modernas e escaláveis.
-</p>
+💻 Trabalho como <strong>Desenvolvedor Web solo</strong>, criando soluções modernas e escaláveis.
 
-<p>
-🎮 Minha experiência mais forte é com <strong>Unity + C#</strong>, onde desenvolvo jogos com identidade própria.
-</p>
+🎮 Tenho forte experiência com <strong>Unity + C#</strong>, desenvolvendo jogos com identidade própria.
 
-<p>
-🎓 Sou formado em <strong>Ciência da Computação</strong>.  
-🎥 Também produzo conteúdo no <strong>NakeVerso</strong>, meu canal sobre game dev.
-</p>
+🎓 Graduado em <strong>Ciência da Computação</strong>.
+
+🎥 Produzo conteúdo sobre game dev no meu canal: <strong>NakeVerso</strong>.
+
+</div>
 
 ---
 
@@ -50,12 +45,9 @@
 - 🎵 Trilhas Sonoras  
 - 🎥 Conteúdo Criativo  
 
-</div>
+<hr/>
 
-
-
----
-<h2 align="center">💻 Tech Stack </h2>
+<h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
 
@@ -142,23 +134,28 @@
       <small>Primary OS</small>
     </td>
   </tr>
-</table>
 
+</table>
 </div>
 
----
+<hr/>
 
 <div align="center">
 
 ## ⚡ GitHub Stats
 
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=nakatimat&show_icons=true&theme=tokyonight&hide_border=true" />
 
+<br/><br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakatimat&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakatimat&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
-
+<hr/>
