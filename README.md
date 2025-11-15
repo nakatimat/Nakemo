@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/itch.io-210038?style=for-the-badge&logo=itch.io&logoColor=00eaff">
   </a>
 <!-- TIKTOK -->
-  <a href="LINK_TIKTOK">
+  <a href="https://www.tiktok.com/@nakeverso">
     <img src="https://img.shields.io/badge/TikTok-210038?style=for-the-badge&logo=tiktok&logoColor=00eaff">
   </a>
 <!-- DISCORD   -->
