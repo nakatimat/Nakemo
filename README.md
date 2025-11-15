@@ -1,35 +1,58 @@
-<!-- ![Banner](./images/Banner.png) -->
+![Banner](./images/Banner.png)
 
+<!-- YOUTUBE -->
 <div align="center">
-  <div>
-    <a href="https://www.youtube.com/@NakeVerso" title="My Youtube!">
-      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=flat-square">
-    </a>
-  </div>
+  <a href="https://www.youtube.com/@NakeVerso">
+    <img src="https://img.shields.io/badge/YouTube-210038?style=for-the-badge&logo=youtube&logoColor=ff006f">
+  </a>
+<!-- ITCH.IO  -->
+  <a href="https://nakedev.itch.io/">
+    <img src="https://img.shields.io/badge/itch.io-210038?style=for-the-badge&logo=itch.io&logoColor=00eaff">
+  </a>
+<!-- TIKTOK -->
+  <a href="https://www.tiktok.com/@nakeverso">
+    <img src="https://img.shields.io/badge/TikTok-210038?style=for-the-badge&logo=tiktok&logoColor=00eaff">
+  </a>
+<!-- DISCORD   -->
+  <a href="https://discord.gg/d7UMyRJZFC">
+    <img src="https://img.shields.io/badge/Discord-210038?style=for-the-badge&logo=discord&logoColor=ac68ff">
+  </a>
 </div>
 
----
+------------
 
 <h2 align="center">📜 ABOUT ME</h2>
 
-<p align="center">
-  👋 Olá! Eu sou <strong>Matheus Nakati</strong> — também conhecido como <strong>Nakemo</strong> | Criador do <strong>NakeVerso</strong>  
+<div style="padding: 20px; background: #111; border-radius: 14px; border: 1px solid #2d0057; box-shadow: 0 0 12px #3900a3aa;">
+
+<p>
+👋 Olá! Sou <strong>Matheus Nakati (Nakemo)</strong>, desenvolvedor web e criador de jogos indie.
 </p>
 
-Desenvolvo experiências digitais que vão desde aplicações web modernas 💻 até jogos indie com identidade própria 🎮.
+<p>
+💻 Hoje atuo como <strong>Desenvolvedor Web solo</strong> em uma empresa, criando soluções modernas e escaláveis.
+</p>
 
-Atualmente, trabalho como **Desenvolvedor Web solo** em uma empresa, sempre aprimorando minhas habilidades e ampliando meu conhecimento técnico. Minha experiência mais sólida vem de anos **desenvolvendo jogos na Unity (C#)** ⚙️.
+<p>
+🎮 Minha experiência mais forte é com <strong>Unity + C#</strong>, onde desenvolvo jogos com identidade própria.
+</p>
 
-Sou **graduado em Ciência da Computação** 🎓, formação que sustenta meu trabalho tanto no desenvolvimento web quanto no desenvolvimento de jogos.
-
-No **NakeVerso**, meu canal no YouTube 🎥, compartilho minha jornada em game development e o processo de transformar ideias em projetos reais.
+<p>
+🎓 Sou formado em <strong>Ciência da Computação</strong>.  
+🎥 Também produzo conteúdo no <strong>NakeVerso</strong>, meu canal sobre game dev.
+</p>
 
 ---
 
-- 🎮 **Jogos Indie Solo** (Unity + C#) - Atuação autonoma
-- 💻 **Construindo uma Plataforma Web para empresa**  - Em Desenvolvimento
-- 🎵 **Componho músicas e trilhas sonoras** para projetos pessoais
-- 🎥 **Produzo conteúdo** sobre game dev e entretenimento 
+### 🔧 O que estou trabalhando:
+- 🎮 Jogos Indie Solo  
+- 💻 Plataforma Web Empresarial  
+- 🎵 Trilhas Sonoras  
+- 🎥 Conteúdo Criativo  
+
+</div>
+
+
 
 ---
 <h2 align="center">💻 Tech Stack </h2>
