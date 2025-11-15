@@ -1,4 +1,4 @@
-![Banner](./images/banner.png)
+![Banner](./images/Banner.png)
 
 <!-- YOUTUBE -->
 <div align="center">
