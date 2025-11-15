@@ -82,13 +82,19 @@ No **NakeVerso**, meu canal no YouTube 🎥, compartilho minha jornada em game d
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 🐍 GitHub Stats + Snake Animation
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nakatimat&show_icons=true&theme=react&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakatimat&layout=compact&theme=react&hide_border=true" />
-</div>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=nakatimat&theme=react&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=nakatimat&show_icons=true&theme=react&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakatimat&layout=compact&theme=react&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nakatimat&theme=react&hide_border=true" />
+
+<br><br>
+
+### 🐍 Snake eating my contributions  
+<img src="https://raw.githubusercontent.com/nakatimat/nakatimat/output/github-contribution-grid-snake.svg" />
+
 </div>
 
 ---
