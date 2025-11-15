@@ -11,9 +11,9 @@
 ---
 
 <h2 align="center"> 📜 ABOUT ME!</h2>
-
+<br>
 👋 Hi, I’m Matheus Nakati — aka Nakemo | Creator of NakeVerso
-
+</br>
 🎮 Solo Indie Game Developer • 💻 Web Developer • 🎶 Musician • 🎥 Content Creator
 🎓 Computer Science Graduate • ✔️ Unity C# Developer endorsed on LinkedIn
 
