@@ -1,43 +1,46 @@
-![Banner](./images/Banner.png)
+![Banner](./images/banner.png)
 
-<!-- SOCIAL BUTTONS -->
+<!-- YOUTUBE -->
 <div align="center">
   <a href="https://www.youtube.com/@NakeVerso">
     <img src="https://img.shields.io/badge/YouTube-210038?style=for-the-badge&logo=youtube&logoColor=ff006f">
   </a>
-
+<!-- ITCH.IO  -->
   <a href="https://nakedev.itch.io/">
     <img src="https://img.shields.io/badge/itch.io-210038?style=for-the-badge&logo=itch.io&logoColor=00eaff">
   </a>
-
-  <a href="https://www.tiktok.com/@nakeverso">
+<!-- TIKTOK -->
+  <a href="LINK_TIKTOK">
     <img src="https://img.shields.io/badge/TikTok-210038?style=for-the-badge&logo=tiktok&logoColor=00eaff">
   </a>
-
+<!-- DISCORD   -->
   <a href="https://discord.gg/d7UMyRJZFC">
     <img src="https://img.shields.io/badge/Discord-210038?style=for-the-badge&logo=discord&logoColor=ac68ff">
   </a>
 </div>
 
-<hr/>
+------------
 
 <h2 align="center">📜 ABOUT ME</h2>
 
-<div align="center">
+<div>
 
+<p>
 👋 Olá! Sou <strong>Matheus Nakati (Nakemo)</strong>, desenvolvedor web e criador de jogos indie.
+</p>
 
-💻 Trabalho como <strong>Desenvolvedor Web solo</strong>, criando soluções modernas e escaláveis.
+<p>
+💻 Hoje atuo como <strong>Desenvolvedor Web solo</strong> em uma empresa, criando soluções modernas e escaláveis.
+</p>
 
-🎮 Tenho forte experiência com <strong>Unity + C#</strong>, desenvolvendo jogos com identidade própria.
+<p>
+🎮 Minha experiência mais forte é com <strong>Unity + C#</strong>, onde desenvolvo jogos com identidade própria.
+</p>
 
-🎓 Graduado em <strong>Ciência da Computação</strong>.
-
-🎥 Produzo conteúdo sobre game dev no meu canal: <strong>NakeVerso</strong>.
-
-</div>
-
----
+<p>
+🎓 Sou formado em <strong>Ciência da Computação</strong>.  
+🎥 Também produzo conteúdo no <strong>NakeVerso</strong>, meu canal sobre game dev.
+</p>
 
 ### 🔧 O que estou trabalhando:
 - 🎮 Jogos Indie Solo  
@@ -45,9 +48,10 @@
 - 🎵 Trilhas Sonoras  
 - 🎥 Conteúdo Criativo  
 
-<hr/>
+</div>
 
-<h2 align="center">💻 Tech Stack</h2>
+---
+<h2 align="center">💻 Tech Stack </h2>
 
 <div align="center">
 
@@ -134,28 +138,23 @@
       <small>Primary OS</small>
     </td>
   </tr>
-
 </table>
+
 </div>
 
-<hr/>
+---
 
 <div align="center">
 
 ## ⚡ GitHub Stats
 
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=nakatimat&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakatimat&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakatimat&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<hr/>
+---
+
