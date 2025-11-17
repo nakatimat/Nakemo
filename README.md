@@ -23,7 +23,7 @@
 
 
 <h2 align="center">
-📜 ABOUT ME
+📜 Sobre Mim
 
 <!-- <a href=""> PORTFOLIO </a> -->
 </h2>
@@ -162,4 +162,9 @@
 </div>
 
 ---
+<div align="center">
+Créditos de referencia: https://github.com/KivixEletric ❤️
+</div>
+
+
 
