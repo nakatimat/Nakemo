@@ -105,7 +105,7 @@
       <small>Unity & Tools</small>
     </td>
     <td align="center" style="padding:10px">
-      <img src="https://img.shields.io/badge/Unity-20232a?style=for-the-badge&logo=unity&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Unity-202A2A?style=for-the-badge&logo=unity&logoColor=white"/><br>
       <small>Game dev</small>
     </td>
     <td align="center" style="padding:10px">
